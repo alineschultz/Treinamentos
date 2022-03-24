@@ -1,5 +1,5 @@
-Para instalar o projeto é necessario descompactar o arquivo leitorArquivos.zip
-apos isso iniciar o Eclipse e exportar o projeto como projeto maven 
+Para instalar o projeto é necessario baixar a pasta leitorArquivos
+apos isso iniciar o Eclipse e exportar o projeto como projeto maven existente 
 como é uma api contruida com spring boot o basta clicar em iniciar e aplicação irá rodar no seguinte endereço
 
 http://localhost:8080/api-premiacao
